@@ -1,7 +1,7 @@
 name: SimonPhoto
 favicon: null
-layout_spectrum: 0.9915780313313007
-typography_spectrum: 0.25280984537675977
+layout_spectrum: 1
+typography_spectrum: 0.50085
 cta:
   domain: null
   bucket: null
