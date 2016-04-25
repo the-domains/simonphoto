@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T15:01:01.324Z'
-dateModified: '2016-04-25T15:00:10.945Z'
+datePublished: '2016-04-25T15:01:45.378Z'
+dateModified: '2016-04-25T15:01:10.101Z'
 title: "Life's a beach"
 author: []
 sourcePath: _posts/2016-04-25-lifes-a-beach.md
