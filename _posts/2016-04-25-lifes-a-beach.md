@@ -1,16 +1,24 @@
 ---
-title: "Life's a beach"
-dateModified: '2016-04-25T14:57:54.857Z'
-datePublished: '2016-04-25T14:58:10.497Z'
-author: []
-description: ''
-starred: false
-sourcePath: _posts/2016-04-25-lifes-a-beach.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-25T15:01:01.324Z'
+dateModified: '2016-04-25T15:00:10.945Z'
+title: "Life's a beach"
+author: []
+sourcePath: _posts/2016-04-25-lifes-a-beach.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5909a170-ef12-4c89-8e13-908210288800.jpg)
